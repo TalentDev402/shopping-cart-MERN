@@ -1,0 +1,48 @@
+{
+  "home": "Home",
+
+  "sidenav.admin": "Admin Panel",
+  "sidenav.user": "User mangement",
+  "sidenav.customer": "Employee mangement",
+  "sidenav.supplier": "Supplier management",
+  "sidenav.order": "Order management",
+  "sidenav.order.list": "Order list",
+  "sidenav.order.return-request-list": "Return request list",
+  "sidenav.stock": "Stock management",
+  "sidenav.stock.product-list": "Product list",
+  "sidenav.stock.adjustment-list": "Adjustment list",
+  "sidenav.category_tag": "Category & Tag management",
+  "sidenav.setting": "Setting",
+  "sidenav.setting.account": "Account Setting",
+  "sidenav.setting.general": "General Setting",
+  "sidenav.setting.shipping-methods": "Shipping Methods",
+  "sidenav.setting.layout": "Layout",
+  "sidenav.setting.theme": "Theme style",
+  "sidenav.setting.custom-pages": "Custom Pages",
+  "sidenav.setting.language": "Language",
+  "sidenav.report": "Report management",
+  "sidenav.report.sales-ranking": "Sales Ranking Report",
+  "sidenav.report.inventory-alert": "Inventory Alert Report",
+  "sidenav.report.inventory-trend": "Inventory Trend Report",
+
+  "user.management": "User Management",
+  "user.create-user": "Create User",
+  "user.edit-user": "Edit User",
+
+  "supplier.management": "Supplier Management",
+  "supplier.create-supplier": "Create Supplier",
+  "supplier.edit-supplier": "Edit Supplier",
+
+  "product.management": "Product List",
+  "product.tag.list": "Product Tag List",
+  "product.category.list": "Product Category List",
+  "product.create-product": "Create Product",
+  "product.import": "Import",
+  "product.export": "Export",
+
+  "customer.management": "Employee Management",
+  "customer.create-customer": "Create Customer",
+  "customer.edit-customer": "Edit Customer",
+
+  "order.management": "Order Management"
+}
